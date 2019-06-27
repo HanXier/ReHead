@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
+        //up
     private void goToMainActivity() {
         Intent intent=new Intent(this,HomeActivity.class);
         startActivity(intent);
